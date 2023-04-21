@@ -1,0 +1,29 @@
+*{
+    font-family: "poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,h2{
+    text-align: center;
+    padding: 10px;
+    color: red;
+}
+
+.descripcion{
+    text-align: center;
+    padding: 5px 25px;
+}
+
+.card{
+    width: 100%;
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card_perfil{
+    width: 320px;
+}
